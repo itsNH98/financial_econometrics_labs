@@ -12,10 +12,10 @@ These labs were developed as a showcase for adequate practice to help students c
 
 ## Outline 
 
-Lab A: Introduction to the course, random numbers, value at risk and machine learning concepts (RIDGE, LASSO)
-Lab A2: Introduction to the course, the "why" and "how" of financial econometrics
-Lab B: Autoregressive models, VAR and forecasting
-Lab B2: Includes calculations of Value At Risk 
-Lab C: Unit Roots and Principal Component Analysis 
-Lab D: Asset pricing tests
-Lab E: Full review of the class before the final exam
+Lab A: Introduction to the course, random numbers, value at risk and machine learning concepts (RIDGE, LASSO) </br>
+Lab A2: Introduction to the course, the "why" and "how" of financial econometrics </br>
+Lab B: Autoregressive models, VAR and forecasting </br>
+Lab B2: Includes calculations of Value At Risk </br>
+Lab C: Unit Roots and Principal Component Analysis </br>
+Lab D: Asset pricing tests</br>
+Lab E: Full review of the class before the final exam</br>
